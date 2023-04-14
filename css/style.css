@@ -1,0 +1,10 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+   font-size: 20px;
+   line-height: 30px;
+   letter-spacing: 4px;
+}
+
+h1 {
+	font-weight: 700;
+}
